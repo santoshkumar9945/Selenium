@@ -8,14 +8,7 @@ public class ifCondition {
 		
 		if(a>8)
 		{
-			if(a>7)
-			{
-				System.out.println("true");
-				
-			}else
-			{
-				System.out.println("false");
-			}
+			System.out.println("true");
 			
 		}else
 		{
